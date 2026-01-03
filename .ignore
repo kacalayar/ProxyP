@@ -1,0 +1,4 @@
+# Ignore for ripgrep/search tools
+.opencode/
+.beads/
+.kiro/
